@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Priyanshu Rai, Tinkerer, explorer and enthusiast](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Tinkerer%2C%20explorer%20and%20enthusiast&title=Priyanshu%20Rai)](https://pimp-my-readme.webapp.io)
+
 <!--
 **prirai/prirai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
