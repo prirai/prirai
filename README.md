@@ -11,4 +11,5 @@
 - 📫 How to reach me: Hunt me down
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: There have been a lot of resources and opportunities that its hard to focus on one. Perhaps, I should shut myself down a bit and focus on one thing at a time.
+
 *I use Arch btw.*
