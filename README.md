@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Priyanshu Rai, Tinkerer, explorer and enthusiast](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Tinkerer%2C%20explorer%20and%20enthusiast&title=Priyanshu%20Rai)](https://pimp-my-readme.webapp.io)
+|^ /? | `/ /\ |\| _\~ |-| |_| 
+                              
 
 [My Github resume](https://resume.github.io/?prirai)
 - **About me**: I’m currently working on Linux system administration, web development and improving my interpersonal communication skills.
