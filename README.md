@@ -12,3 +12,5 @@
 - **What worries me**: No clear goal.
 
 *I use Arch btw.*
+
+[![Visitor Counter for prirai](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=prirai)}](https://pimp-my-readme.webapp.io)
