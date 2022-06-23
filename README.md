@@ -2,7 +2,7 @@
 |^ /? | `/ /\ |\| _\~ |-| |_| 
                               
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prirai)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prirai&show_icons=true&&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 [My Github resume](https://resume.github.io/?prirai)
 - **About me**: I’m currently working on Linux system administration, web development and improving my interpersonal communication skills.
