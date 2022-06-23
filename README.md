@@ -2,10 +2,6 @@
 |^ /? | `/ /\ |\| _\~ |-| |_| 
                               
 
-[![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=prirai&show_icons=true&&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prirai)](https://github.com/anuraghazra/github-readme-stats)
-
 [My Github resume](https://resume.github.io/?prirai)
 - **About me**: I’m currently working on Linux system administration, web development and improving my interpersonal communication skills.
 - **Currently**: I’m currently learning Bash, Python, C, HTML/CSS/JS and Sage.
