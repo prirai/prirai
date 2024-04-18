@@ -1,4 +1,4 @@
 - [GHresume](https://resume.github.io/?prirai)
 - Bash, HTML/CSS/JS, Python, C, Java, Linux, Bash Scripting.
 
-![Visitor Count](https://profile-counter.glitch.me/prirai/count.svg)
+![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fprirai&countColor=%23263759&style=flat&labelStyle=upper)
