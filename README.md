@@ -3,7 +3,7 @@
   <summary>
   <a href="https://github.com/prirai/firefox-config" style="text-decoration: none; color: inherit;">
     <div>
-      <h3 style="text-decoration: none;"><span></span>╭───────── Priyanshu Rai<br>╰── <a href="https://github.com/prirai/firefox-config">firefox-config/</a></h3>
+      <h3 style="text-decoration: none;"><span></span>╭───────── Projects<br>╰── <a href="https://github.com/prirai/firefox-config">firefox-config/</a></h3>
       <p> Firefox configs for security, privacy, usability and performance </p>
       <div>
         <code>javascript</code>
